@@ -1,0 +1,1 @@
+import{i as t,d as e,j as n}from"./firebase-yBBMXjtz.js";async function d(a){const o=t(e,"movies",a);return{docSnap:await n(o),docRef:o}}const i="https://cinemexuadeo.netlify.app/";export{d as G,i as d};
